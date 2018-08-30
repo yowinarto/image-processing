@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\Documents\\Projects\\image-processing\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "D:\\Documents\\Projects\\image-processing\\android\\app\\build\\intermediates\\exploded-aar\\histogram\\react-native-image-picker\\unspecified\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\image-processing\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Documents\\Projects\\image-processing\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
+    },
+    {
         "merged": "C:\\Users\\Winarto\\Desktop\\citra\\histogram\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\Winarto\\Desktop\\citra\\histogram\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
     },

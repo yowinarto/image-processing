@@ -1,4 +1,4 @@
-#Thu Aug 30 20:28:47 ICT 2018
-base.0=C\:\\Users\\Winarto\\Desktop\\citra\\histogram\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Aug 31 01:55:48 ICT 2018
+base.0=D\:\\Documents\\Projects\\image-processing\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=C\:\\Users\\Winarto\\Desktop\\citra\\histogram\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=D\:\\Documents\\Projects\\image-processing\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

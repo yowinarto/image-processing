@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Documents\\Projects\\image-processing\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Documents\\Projects\\image-processing\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Winarto\\Desktop\\citra\\histogram\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Winarto\\Desktop\\citra\\histogram\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
